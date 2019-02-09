@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
+   width="500"
    height="1000"
-   viewBox="0 0 1000 1000"
+   viewBox="0 0 500 1000"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Font Matilda Mono.svg">
   <sodipodi:namedview
      id="base"
@@ -23,14 +23,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="183.49946"
-     inkscape:cy="538.3861"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="230.68115"
+     inkscape:cy="629.46216"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g215"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="988"
+     inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -80,11 +80,6 @@
        id="guide54"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,860"
-       orientation="0,1"
-       id="guide56"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="500,250"
        orientation="1,0"
        id="guide60"
@@ -125,7 +120,11 @@
     <font
        id="font146"
        horiz-origin-y="250"
-       horiz-adv-x="1000">
+       horiz-adv-x="1000"
+       horiz-origin-x="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
       <font-face
          id="font-face120"
          descent="250"
@@ -192,7 +191,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -396,6 +395,30 @@
        style="fill:#000000;stroke:none;stroke-width:1.0706048;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
+     id="g199"
+     style="display:none;opacity:0.28400005"
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-I">
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 208.98828,151.45885 h 74 v 599.95536 h -74 z"
+       id="path195"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path197"
+       d="m 61.63867,690 h 368.69922 v 60 H 61.63867 Z"
+       style="fill:#000000;stroke:none;stroke-width:1.21315634;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1.07181442;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 102.09257,150 h 287.79142 v 60 H 102.09257 Z"
+       id="path207"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
      inkscape:label="GlyphLayer-L"
      inkscape:groupmode="layer"
      style="display:none;opacity:1"
@@ -485,8 +508,26 @@
        sodipodi:nodetypes="szszsccssczsccs" />
   </g>
   <g
+     inkscape:label="GlyphLayer-T"
+     inkscape:groupmode="layer"
+     style="display:none;opacity:0.28400005"
+     id="g192">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path188"
+       d="m 206.28595,151.45885 h 74 v 599.95536 h -74 z"
+       style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1.26224744;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 46.41718,150.04464 h 399.1422 v 60 H 46.41718 Z"
+       id="path190"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
      id="g1091"
-     style="display:inline;opacity:0.28400005"
+     style="display:none;opacity:0.28400005"
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-V">
     <path
@@ -499,6 +540,30 @@
        style="fill:#000000;stroke:none;stroke-width:1.71862209;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 230.1894,750 h 64 l 174,-599.95536 h -74 c 0,0 -33.0226,108.97957 -60.72998,208.87664 C 305.75204,458.81835 230.1894,750 230.1894,750 Z"
        id="path1089"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccczc" />
+  </g>
+  <g
+     inkscape:label="GlyphLayer-Y"
+     inkscape:groupmode="layer"
+     style="display:inline;opacity:0.28400005"
+     id="g215">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path209"
+       d="m 208.98828,485.25539 h 74 v 266.15882 h -74 z"
+       style="fill:#000000;stroke:none;stroke-width:1.14469922;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cccczc"
+       inkscape:connector-curvature="0"
+       id="path1087-0"
+       d="M 261.82715,523 208.98828,551 25.827158,150.04464 H 99.82715 c 0,0 33.5948,72.43238 61.03534,134.52367 C 188.30303,346.6596 261.82715,523 261.82715,523 Z"
+       style="display:inline;opacity:1;fill:#000000;stroke:none;stroke-width:1.35503137;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="display:inline;opacity:1;fill:#000000;stroke:none;stroke-width:1.35503137;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 230.1894,523 52.79888,27 185.20112,-399.95536 h -74 c 0,0 -33.0226,71.7459 -60.72998,133.84576 C 305.75204,345.99027 230.1894,523 230.1894,523 Z"
+       id="path1089-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccczc" />
   </g>
