@@ -25,17 +25,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="398.17192"
-     inkscape:cy="635.81259"
+     inkscape:cx="317.44686"
+     inkscape:cy="425.27413"
      inkscape:document-units="px"
-     inkscape:current-layer="g1637"
+     inkscape:current-layer="g738"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -217,6 +217,30 @@
          id="glyph144"
          d=" M262.00661 710.02148C363.01008 710.02148 407.91736 680.331864 426.53478 669.999996L352.53478 630.02232C342.22302 642.05609 297.6884 649.98235 262.00661 649.98242L77.637754 649.98279L78.149414 709.91072Z M352.53478 669.999996L426.53478 669.999996L138.08483 30.15225L64.084834 30.15225Z M228.16592 -10.11076C127.16245 -10.11076 82.255174 19.57886 63.637754 29.91072L137.63775 69.8884C154.37808 55.71177 192.48413 49.92837 228.16592 49.9283L436.53478 49.92793L436.02312 -10.0Z"
          unicode="Z" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font1735"
+       inkscape:label="font 0">
+      <font-face
+         units-per-em="1024"
+         id="font-face1737"
+         font-family="SVGFont 0" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph1739" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font1741"
+       inkscape:label="font 2">
+      <font-face
+         units-per-em="1024"
+         id="font-face1743"
+         font-family="SVGFont 2" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph1745" />
     </font>
   </defs>
   <metadata
@@ -850,7 +874,7 @@
   </g>
   <g
      id="g537"
-     style="display:inline;opacity:0.3260002"
+     style="display:none;opacity:0.3260002"
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-b">
     <path
@@ -907,7 +931,7 @@
   <g
      inkscape:label="GlyphLayer-d"
      inkscape:groupmode="layer"
-     style="display:inline;opacity:0.3260002"
+     style="display:none;opacity:0.3260002"
      id="g610"
      sodipodi:insensitive="true">
     <path
@@ -1076,7 +1100,7 @@
   </g>
   <g
      id="g684"
-     style="display:inline;opacity:0.453"
+     style="display:none;opacity:0.453"
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-s">
     <path
@@ -1088,7 +1112,7 @@
   </g>
   <g
      id="g710"
-     style="display:inline;opacity:0.31499999"
+     style="display:none;opacity:0.31499999"
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-t">
     <path
