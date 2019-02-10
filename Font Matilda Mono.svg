@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-7.6938909"
-     inkscape:cy="332.74465"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="74.078969"
+     inkscape:cy="312.12349"
      inkscape:document-units="px"
-     inkscape:current-layer="g4020"
+     inkscape:current-layer="g320"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="987"
@@ -214,6 +214,21 @@
          id="glyph4024"
          unicode="."
          d="m 183.98828,393.99054 h 84 v -120 h -84 z" />
+      <glyph
+         glyph-name=":"
+         id="glyph4034"
+         unicode=":"
+         d="m 187.98828,723.99023 v -110 h 80 v 110 z m 0,-340 v -110 h 80 v 110 z" />
+      <glyph
+         glyph-name=";"
+         id="glyph4045"
+         unicode=";"
+         d="m 187.98828,723.99023 v -110 h 80 v 110 z m 0,-340 v -100 l -40,-134.125 h 60 l 60,114.125 v 120 z" />
+      <glyph
+         glyph-name=","
+         id="glyph4047"
+         unicode=","
+         d="m 187.98828,383.99023 v -100 l -40,-134.125 h 60 l 60,114.125 v 120 z" />
     </font>
   </defs>
   <metadata
@@ -224,14 +239,52 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     id="g4020"
+     style="display:none;opacity:1"
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-.">
+    <path
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:8.30397415;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 183.98828,630.00946 h 84 v 120 h -84 z"
+       id="rect4022"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="GlyphLayer-:"
+     inkscape:groupmode="layer"
+     style="display:none;opacity:1"
+     id="g4029">
+    <path
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:7.75884485;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 187.98828,300.00977 v 110 h 80 v -110 z m 0,340 v 110 h 80 v -110 z"
+       id="path4027"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g4038"
+     style="display:none;opacity:1"
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-;">
+    <path
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:7.75884485;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 187.98828,300.00977 v 110 h 80 v -110 z"
+       id="path4051"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:7.75884485;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 187.98828,640.00977 v 100 l -40,134.125 h 60 l 60,-114.125 v -120 z"
+       id="path4036"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
      inkscape:label="GlyphLayer-A"
      inkscape:groupmode="layer"
-     style="display:none;opacity:0.34000011"
+     style="display:inline;opacity:0.34000017"
      id="g320">
     <path
        style="fill:#000000;stroke:none;stroke-width:1.0706048;stroke-miterlimit:4;stroke-dasharray:none"
@@ -253,18 +306,8 @@
        style="fill:#000000;stroke:none;stroke-width:1.71862209;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
-     id="g4020"
-     style="display:inline;opacity:1"
-     inkscape:groupmode="layer"
-     inkscape:label="GlyphLayer-.">
-    <path
-       style="opacity:1;fill:#000000;stroke:none;stroke-width:8.30397415;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 183.98828,630.00946 h 84 v 120 h -84 z"
-       id="rect4022" />
-  </g>
-  <g
      id="g1033"
-     style="display:none;opacity:0.46400003"
+     style="display:inline;opacity:0.46400003"
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-B">
     <path
@@ -288,7 +331,7 @@
   </g>
   <g
      id="g146"
-     style="display:none;opacity:0.31499999"
+     style="display:inline;opacity:0.31499999"
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-C">
     <path
@@ -1313,7 +1356,7 @@
          id="tspan971"
          x="-997.16736"
          y="749.44934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:821.63043213px;font-family:menlo;-inkscape-font-specification:menlo;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:1.0282129;stroke-miterlimit:4;stroke-dasharray:none">tvyp</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:821.63043213px;font-family:menlo;-inkscape-font-specification:menlo;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:1.0282129;stroke-miterlimit:4;stroke-dasharray:none">tvy,</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
