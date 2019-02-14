@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="68.120951"
-     inkscape:cy="633.45536"
+     inkscape:cx="189.79186"
+     inkscape:cy="712.29101"
      inkscape:document-units="px"
-     inkscape:current-layer="g3041"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="988"
@@ -1259,7 +1259,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="------------------ Latin Caps"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:label="GlyphLayer-A"
        inkscape:groupmode="layer"
@@ -1748,7 +1748,7 @@
     <g
        inkscape:label="GlyphLayer-W"
        inkscape:groupmode="layer"
-       style="display:none;opacity:0.28400005"
+       style="display:inline;opacity:0.28400005"
        id="g247">
       <path
          style="fill:#000000;stroke:none;stroke-width:1.71862209;stroke-miterlimit:4;stroke-dasharray:none"
@@ -2761,9 +2761,9 @@
     </g>
     <g
        id="g3041"
-       style="display:inline;opacity:0.28400005"
+       style="display:none;opacity:0.28400005"
        inkscape:groupmode="layer"
-       inkscape:label="GlyphLayer-N copy">
+       inkscape:label="GlyphLayer-И">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -2783,6 +2783,130 @@
          d="m 410.19259,150.04464 h -74 L 81.83035,750 h 74 z"
          style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
+    <g
+       inkscape:label="GlyphLayer-Й"
+       inkscape:groupmode="layer"
+       style="display:none;opacity:0.28400005"
+       id="g1879">
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 360.1926,150.04464 h 69.99999 V 750 H 356.1926 Z"
+         id="path1873"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1875"
+         d="m 135.83035,150.04464 h -74 V 750 h 70 z"
+         style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 410.19259,150.04464 h -74 L 81.83035,750 h 74 z"
+         id="path1877"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="display:inline;opacity:1;stroke-width:0.4672786"
+         d="m 124.73047,0.15023 c 8.71939,61.819858 59.89716,86.812501 121.73437,86.812501 61.83715,-1e-5 113.01295,-24.992787 121.73243,-86.812501 h -47.50586 c -10.50238,22.649018 -39.76637,34.636719 -74.25196,34.636719 -34.48576,0 -63.75182,-11.987446 -74.2539,-34.636719 z"
+         id="path505-2"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1913"
+       style="display:none;opacity:0.28400005"
+       inkscape:groupmode="layer"
+       inkscape:label="GlyphLayer-Л">
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 137.10742,179.91016 -20.93359,400.03125 c -1.5763,30.12238 -3.71774,110.00195 -58.646486,110.00195 -9.29761,0 -18.696154,-0.68142 -28.06836,-2.30664 v 58.86719 c 16.182846,2.40584 31.54941,3.67382 42.06836,3.67382 96.295056,0 110.467696,-38.76502 117.701176,-170.82617 l 21.8789,-399.4414 z"
+         id="path1901"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccsscc" />
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 356.19259,150.04464 h 74 V 750 h -74 z"
+         id="path1903"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="cccsccc"
+         inkscape:connector-curvature="0"
+         id="path1907"
+         d="m 301.63582,139.88922 c -101.00348,0 -145.91076,29.68962 -164.52817,40.02148 l 73.99999,39.97768 c 12.09747,-7.74806 54.84639,-19.96 90.52818,-19.9601 l 128.55677,-3.7e-4 v -59.92793 z"
+         style="display:inline;opacity:1;fill:#000000;stroke-width:0.68939322;filter:url(#filter1062)" />
+    </g>
+    <g
+       inkscape:label="GlyphLayer-П"
+       inkscape:groupmode="layer"
+       style="display:none;opacity:0.28400005"
+       id="g1954">
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 356.1926,179.98261 h 73.99999 V 750 H 356.1926 Z"
+         id="path1948"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1950"
+         d="M 135.46011,179.92935 H 61.460114 V 750 h 73.999996 z"
+         style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccsccc"
+         inkscape:connector-curvature="0"
+         id="path242-3"
+         d="m 225.89238,139.96113 c -101.00347,0 -145.910749,29.68961 -164.528165,40.02148 l 73.999995,39.97768 c 12.09747,-7.74806 54.84638,-19.96003 90.52817,-19.9601 l 13.57492,-3.7e-4 -0.51166,-59.92793 z"
+         style="display:inline;opacity:1;fill:#000000;stroke-width:0.68939322" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;stroke-width:0.68939322"
+         d="m 265.66442,139.96113 c 101.00347,0 145.91075,29.68961 164.52817,40.02148 l -74,39.97768 c -12.09747,-7.74806 -54.84638,-19.96003 -90.52817,-19.9601 l -33.57492,-3.7e-4 0.51166,-59.92793 z"
+         id="path1988"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsccc" />
+    </g>
+    <g
+       inkscape:label="GlyphLayer-У"
+       inkscape:groupmode="layer"
+       style="display:none;opacity:0.28400005"
+       id="g1998">
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1.47602749;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 286.82571,592.5791 -58.75,9.838 L 57.140867,150.04464 h 75.999993 c 0,0 22.86993,63.26235 49.03534,135.19835 26.16541,71.936 104.64951,307.33611 104.64951,307.33611 z"
+         id="path1992"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccczc" />
+      <path
+         sodipodi:nodetypes="cccczc"
+         inkscape:connector-curvature="0"
+         id="path1994"
+         d="m 229.4322,592.5791 h 64 L 459.50311,150.04464 h -76 c 0,0 -21.90128,60.87021 -48.72998,134.39398 C 307.94443,357.96238 229.4322,592.5791 229.4322,592.5791 Z"
+         style="fill:#000000;stroke:none;stroke-width:1.47602749;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccsccsccc"
+         inkscape:connector-curvature="0"
+         id="path1996"
+         d="m 246.97387,543.37372 -18.48633,49.14774 c -29.84727,85.12123 -38.71774,107.46323 -93.64649,107.46323 -9.29761,0 -18.69615,-0.66569 -28.06836,-2.2534 v 58.6544 C 122.95554,758.75256 138.3221,760 148.84105,760 c 96.29506,0 99.62424,-44.99053 144.57032,-167.36326 l 18.48632,-49.26302 z"
+         style="display:inline;opacity:1;stroke-width:0.77235991" />
+    </g>
+    <g
+       id="g2010"
+       style="display:inline;opacity:0.31499999"
+       inkscape:groupmode="layer"
+       inkscape:label="GlyphLayer-Ф">
+      <path
+         sodipodi:nodetypes="ssssssssss"
+         inkscape:connector-curvature="0"
+         style="display:inline;stroke-width:0.81601453"
+         d="m 249,210.01761 c -153.93707,0 -215,107.45367 -215,240.00472 0,132.55104 61.06293,240.00472 215,240.00472 153.93707,0 215,-107.45368 215,-240.00472 0,-132.55105 -61.06293,-240.00472 -215,-240.00472 z m 0,59.9422 c 91.76189,0 141,80.60669 141,180.03892 0,99.4322 -49.23811,180.03773 -141,180.03773 -91.76189,0 -140.99999,-80.60553 -140.99999,-180.03773 0,-99.43223 49.2381,-180.03892 140.99999,-180.03892 z"
+         id="path2008" />
+      <path
+         style="opacity:1;fill:#000000;stroke:none;stroke-width:0.79870582;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 212,150.04464 h 74 v 599.95539 h -74 z"
+         id="rect2016"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      style="display:none"
@@ -2799,15 +2923,16 @@
          id="tspan971"
          x="-474.88309"
          y="749.44934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:821.63043213px;font-family:menlo;-inkscape-font-specification:menlo;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:1.0282129;stroke-miterlimit:4;stroke-dasharray:none">HД</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:821.63043213px;font-family:menlo;-inkscape-font-specification:menlo;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:1.0282129;stroke-miterlimit:4;stroke-dasharray:none">HЙ</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="RU">
+     inkscape:label="RU"
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
        x="-340.82547"
        y="-40.861183"
        id="text2852"><tspan
@@ -2828,7 +2953,7 @@
    style="fill:#ff0000"
    id="tspan2892"><tspan
    style="fill:#000000"
-   id="tspan2976">ДЖ</tspan>ИЙЛПУФЦЧШЩЪЫЬЭЮЯ</tspan></tspan></text>
+   id="tspan2976">ДЖИЙЛПУФ</tspan>ЦЧШЩЪЫЬЭЮЯ</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
