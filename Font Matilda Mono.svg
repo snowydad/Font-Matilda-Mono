@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="187.45554"
-     inkscape:cy="835.29747"
+     inkscape:cx="324.52599"
+     inkscape:cy="634.52253"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="g3041"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="988"
@@ -668,6 +668,26 @@
          id="glyph2986"
          unicode="0"
          d="M 245.98828,884 C 102.791,884 45.988281,745.2343 45.988281,574.05664 c 0,-171.17766 56.802719,-309.94531 199.999999,-309.94531 143.19728,0 200,138.76765 200,309.94531 0,171.17766 -56.80272,309.94336 -200,309.94336 z m 0,-60 c 25.48676,0 47.28603,-10.89647 65.2207,-30.07812 L 143.70117,419.05469 C 128.37319,461.6596 120.47656,515.51674 120.47656,574.08594 120.47656,712.10885 164.30551,824 245.98828,824 Z m 102.22461,-94.70898 c 15.3692,-42.6326 23.28711,-96.556 23.28711,-155.20508 0,-138.02289 -43.82895,-249.91211 -125.51172,-249.91211 -25.41029,0 -47.1546,10.83198 -65.05859,29.90625 z" />
+      <glyph
+         glyph-name="Б"
+         id="glyph2165"
+         unicode="Б"
+         d="M 227.98828,884.02148 C 126.9848,884.02148 82.078347,854.33186 63.460938,844 V 303.99805 c 50.698372,-28.38955 113.179782,-40 168.527342,-40 142.67075,0 204,79.95861 204,181.08203 0,101.12343 -64.80661,182.99414 -208,182.99414 L 217.75,627.99805 h -80.28906 v 176.02343 c 12.09747,7.74806 54.84555,19.96087 90.52734,19.96094 h 168.36914 l -0.51172,59.92774 z m 4,-316.57031 C 321.73722,567.48939 361.5,514.06164 361.5,445.73438 c 0,-68.32728 -47.82895,-121.71876 -129.51172,-121.71876 -47.40178,0 -82.42987,12.21093 -94.52734,19.95899 v 223.43555 z" />
+      <glyph
+         glyph-name="Д"
+         id="glyph2175"
+         unicode="Д"
+         d="m 287.63672,884.11133 c -101.00348,0 -145.91189,-29.68963 -164.5293,-40.02149 L 103.10742,463 C 98.827352,381.44556 67.830078,334 67.830078,334 h -40 l 8,-180.0625 H 101.83008 V 274 H 402.19336 V 153.92773 h 66 l 8,180.0625 h -40 V 873.95508 884 Z m 0,-60.03906 h 74.55664 V 334 H 141.83008 c 0,0 30.578,39.45656 35.27734,129 l 20,341.11133 c 12.09747,7.74806 54.84751,19.96085 90.5293,19.96094 z" />
+      <glyph
+         glyph-name="Ж"
+         id="glyph2177"
+         unicode="Ж"
+         d="M 35.830078,873.95508 164.9375,637.75195 27.830078,274 H 109.83008 L 202.11328,569.73633 214.375,547.30469 211,274 h 74 l -3.35352,273.30078 12.26172,22.4336 L 386.19336,274 h 82 L 331.08594,637.75195 460.19336,873.95508 h -78 L 281.74023,650.63281 285,873.95508 h -74 l 3.23633,-223.21485 -100.40625,223.21485 z" />
+      <glyph
+         glyph-name="И"
+         id="glyph2205"
+         unicode="И"
+         d="M 61.830078,873.95508 V 274 h 20 50.000002 24 L 359.39453,754.13867 356.19336,274 h 74 v 599.95508 h -20 -50 -24 l -203.56445,-480.13867 3.20117,480.13867 z" />
     </font>
     <filter
        inkscape:collect="always"
@@ -1278,7 +1298,7 @@
     <g
        inkscape:label="GlyphLayer-A"
        inkscape:groupmode="layer"
-       style="display:none;opacity:0.34000017"
+       style="display:inline;opacity:0.34000017"
        id="g320">
       <path
          style="fill:#000000;stroke:none;stroke-width:1.0706048;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1301,7 +1321,7 @@
     </g>
     <g
        id="g1033"
-       style="display:none;opacity:0.46400003"
+       style="display:inline;opacity:0.46400003"
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-B">
       <path
@@ -1445,7 +1465,7 @@
     </g>
     <g
        id="g4775"
-       style="display:inline;opacity:0.28400005"
+       style="display:none;opacity:0.28400005"
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-H">
       <path
@@ -1811,7 +1831,7 @@
     <g
        inkscape:label="GlyphLayer-Y"
        inkscape:groupmode="layer"
-       style="display:inline;opacity:0.28400005"
+       style="display:none;opacity:0.28400005"
        id="g215">
       <path
          sodipodi:nodetypes="ccccc"
@@ -2673,7 +2693,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="------------------ Cyrilic Caps"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:label="GlyphLayer-Б"
        inkscape:groupmode="layer"
@@ -2697,6 +2717,11 @@
          id="path62-2-2-8"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccsccc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;stroke:none;stroke-width:1.71226108;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 227.98828,139.97852 C 126.9848,139.97852 82.078347,169.66814 63.460938,180 v 540.00195 c 50.698372,28.38955 113.179782,40 168.527342,40 142.67075,0 204,-79.95861 204,-181.08203 0,-101.12343 -64.80661,-182.99414 -208,-182.99414 L 217.75,396.00195 H 137.46094 V 219.97852 c 12.09747,-7.74806 54.84555,-19.96087 90.52734,-19.96094 h 168.36914 l -0.51172,-59.92774 z m 4,316.57031 C 321.73722,456.51061 361.5,509.93836 361.5,578.26562 c 0,68.32728 -47.82895,121.71876 -129.51172,121.71876 -47.40178,0 -82.42987,-12.21093 -94.52734,-19.95899 V 456.58984 Z"
+         id="path2168"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        inkscape:label="GlyphLayer-Д"
@@ -2803,7 +2828,7 @@
     <g
        inkscape:label="GlyphLayer-Й"
        inkscape:groupmode="layer"
-       style="display:none;opacity:0.28400005"
+       style="display:inline;opacity:0.28400005"
        id="g1879">
       <path
          style="fill:#000000;stroke:none;stroke-width:1.71862221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -2983,7 +3008,7 @@
     </g>
     <g
        id="g1993"
-       style="display:inline;opacity:0.59200003"
+       style="display:none;opacity:0.59200003"
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-Ш">
       <path
@@ -3184,7 +3209,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="------------------ Cyrilic x"
-     style="display:inline">
+     style="display:none">
     <g
        id="g2120"
        style="display:none;opacity:0.31499999"
@@ -3662,7 +3687,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="RU"
-     style="display:inline;opacity:1">
+     style="display:none;opacity:1">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
