@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300968463
-ModificationTime: 1551346936
+ModificationTime: 1551350825
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 3
@@ -976,34 +976,33 @@ EndChar
 
 StartChar: three
 Encoding: 51 51 20
-Width: 426
+Width: 400
 Flags: W
-HStem: -8 107<44.0362 207.67> 296 96<98 187.959> 551 107<70.306 201.091>
-VStem: 221 130<423.484 531.351> 238 131<131.69 257.533>
+HStem: -8 100<36.041 224.37> 291 109<100 205.74> 560 122<41.5627 211.213>
+VStem: 223 136<417.488 548.804> 242 137<112.183 265.599>
 LayerCount: 2
 Fore
 SplineSet
-24 21 m 1xe8
- 43 124 l 1
- 69 109 105 99 140 99 c 0
- 203 99 238 138 238 193 c 0xe8
- 238 265 183 296 116 296 c 2
- 98 296 l 1
- 98 392 l 1
- 111 392 l 2
- 159 393 221 413 221 476 c 0
- 221 523 191 551 145 551 c 0
- 116 551 87 540 63 525 c 1
- 46 624 l 1
- 73 641 126 658 180 658 c 0
- 294 658 351 584 351 501 c 0xf0
- 351 436 315 382 258 355 c 1
- 258 353 l 1
- 321 332 369 276 369 188 c 0
- 369 89 293 -8 152 -8 c 0
- 99 -8 53 5 24 21 c 1xe8
+44 542 m 1xf0
+ 12 653 l 1
+ 57 668 132 682 171 682 c 0
+ 299 682 359 670 359 506 c 0xf0
+ 359 378 333 370 265 353 c 5
+ 265 351 l 5
+ 344 335 379 340 379 192 c 0
+ 379 2.22044604925e-014 269 -8 148 -8 c 0
+ 112 -8 45 0 12 12 c 1
+ 41 109 l 1
+ 70 98 115 92 135 92 c 0
+ 205 92 242 94 242 186 c 0xe8
+ 242 298 180 291 109 291 c 2
+ 100 291 l 1
+ 90 400 l 1
+ 103 400 l 2
+ 163 400 223 392 223 481 c 0
+ 223 558 194 560 138 560 c 0
+ 119 560 78 554 44 542 c 1xf0
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers lookup 16 subtable" three.fitted
 Substitution2: "'onum' Oldstyle Figures lookup 14 subtable" three.taboldstyle
 Substitution2: "'subs' +BB0EOAQ2BD0EOAQ5 +BDgEPQQ0BDUEOgRB lookup 13 subtable" three.inferior
@@ -1016,34 +1015,31 @@ EndChar
 StartChar: four
 Encoding: 52 52 21
 Width: 426
-Flags: W
+Flags: HW
 HStem: 0 21G<234 350> 155 105<122 234 350 415> 630 20G<213.481 350>
 VStem: 234 116<0 155 260 498.403>
 LayerCount: 2
 Fore
 SplineSet
-350 0 m 1
- 234 0 l 1
- 234 155 l 1
- 11 155 l 1
- 11 245 l 1
- 224 650 l 1
- 350 650 l 1
- 350 260 l 1
- 415 260 l 1
+341.58984375 -10.984375 m 5
+ 225.618164062 -8.4072265625 l 5
+ 230.0625 155.5546875 l 1
+ 21 155 l 1
+ 11 255 l 1
+ 231.061523438 661.654296875 l 1
+ 357.03125 648.85546875 l 1
+ 348.366210938 259.951171875 l 1
+ 410 260 l 1
  415 155 l 1
- 350 155 l 1
- 350 0 l 1
+ 346.033203125 154.977539062 l 1
+ 341.58984375 -10.984375 l 5
 122 260 m 1
- 234 260 l 1
- 234 393 l 2
- 234 428 238 466 241 500 c 1
- 237 500 l 1
- 222 464 209 435 192 399 c 2
+ 232.39453125 260.528320312 l 1
+ 240.725585938 491.314453125 l 1
+ 236.7265625 491.403320312 l 1
  122 262 l 1
  122 260 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers lookup 16 subtable" four.fitted
 Substitution2: "'onum' Oldstyle Figures lookup 14 subtable" four.taboldstyle
 Substitution2: "'subs' +BB0EOAQ2BD0EOAQ5 +BDgEPQQ0BDUEOgRB lookup 13 subtable" four.inferior
@@ -1056,30 +1052,28 @@ EndChar
 StartChar: five
 Encoding: 53 53 22
 Width: 426
-Flags: W
+Flags: HW
 HStem: -8 107<45.2969 207.572> 536 114<193 365>
 VStem: 247 129<137.733 280.612>
 LayerCount: 2
 Fore
 SplineSet
-365 650 m 1
- 365 536 l 1
- 193 536 l 1
+355 655 m 5
+ 365 531 l 1
+ 193 526 l 1
  178 420 l 1
- 184 420 191 420 198 420 c 0
- 226 419 283 406 320 371 c 0
- 356 336 376 287 376 222 c 0
- 376 95 292 -8 150 -8 c 0
- 104 -8 54 4 28 18 c 1
- 48 122 l 1
- 72 110 106 99 141 99 c 0
- 205 99 247 140 247 210 c 0
- 247 297 181 326 106 326 c 0
- 88 326 73 326 60 324 c 1
- 96 650 l 1
- 365 650 l 1
+ 184 420 241 420 248 420 c 0
+ 345.572265625 416.515625 386 391 376 222 c 0
+ 363.713655613 14.360779857 342 -8 200 -8 c 0
+ 154 -8 54 4 28 18 c 1
+ 48 112 l 1
+ 72 100 146 89 181 89 c 0
+ 255 89 239.795405675 98.2351051658 247 200 c 0
+ 255 313 241 312 146 316 c 0
+ 128.016187685 316.75721315 112 317 60 318 c 1
+ 96 645 l 1
+ 355 655 l 5
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers lookup 16 subtable" five.fitted
 Substitution2: "'onum' Oldstyle Figures lookup 14 subtable" five.taboldstyle
 Substitution2: "'subs' +BB0EOAQ2BD0EOAQ5 +BDgEPQQ0BDUEOgRB lookup 13 subtable" five.inferior
@@ -1092,32 +1086,27 @@ EndChar
 StartChar: six
 Encoding: 54 54 23
 Width: 426
-Flags: W
+Flags: HW
 HStem: -8 95<182.791 255.233> 552 106<260.511 355>
 VStem: 23 133<126.313 311.255> 277 129<108.115 306.496>
 LayerCount: 2
 Fore
 SplineSet
-355 658 m 1
- 355 552 l 1
- 339 551 321 549 301 545 c 0
- 215 526 172 454 156 372 c 1
- 159 372 l 1
- 182 403 216 424 259 424 c 0
- 347 424 406 345 406 222 c 0
- 406 108 348 -8 221 -8 c 0
- 98 -8 23 99 23 260 c 0
- 23 402 70 499 130 563 c 0
- 172 610 235 641 289 651 c 0
- 320 657 341 657 355 658 c 1
-219 87 m 0
- 263 87 277 145 277 223 c 0
- 276 278 258 330 216 330 c 0
- 195 330 175 316 163 286 c 0
- 159 279 156 259 156 229 c 0
- 156 144 180 87 219 87 c 0
+345 658 m 5
+ 365 552 l 5
+ 162 525 156 536 156 392 c 1
+ 159 392 l 1
+ 182 423 216.337239444 429.374835976 259 424 c 0
+ 386 408 406 402 406 222 c 0
+ 406 14 406 -8 221 -8 c 0
+ 24 -8 23 28 23 260 c 0
+ 23 593 22 631 345 658 c 5
+219 77 m 0
+ 272 77 277 80 277 203 c 0
+ 277 306 272 309 216 320 c 0
+ 176.426757812 327.7734375 156 315 156 209 c 0
+ 156 77 166 77 219 77 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers lookup 16 subtable" six.fitted
 Substitution2: "'onum' Oldstyle Figures lookup 14 subtable" six.taboldstyle
 Substitution2: "'subs' +BB0EOAQ2BD0EOAQ5 +BDgEPQQ0BDUEOgRB lookup 13 subtable" six.inferior
@@ -1130,22 +1119,21 @@ EndChar
 StartChar: seven
 Encoding: 55 55 24
 Width: 426
-Flags: W
+Flags: HW
 HStem: 0 21G<61 196.234> 535 115<39 261>
 LayerCount: 2
 Fore
 SplineSet
-39 650 m 1
+46 660 m 5
  393 650 l 1
- 393 564 l 1
- 189 0 l 1
- 61 0 l 1
- 261 533 l 1
- 261 535 l 1
- 39 535 l 1
- 39 650 l 1
+ 393 534 l 1
+ 189 -30 l 1
+ 81 0 l 1
+ 281 533 l 1
+ 281 535 l 1
+ 39 545 l 1
+ 46 660 l 5
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers lookup 16 subtable" seven.fitted
 Substitution2: "'onum' Oldstyle Figures lookup 14 subtable" seven.taboldstyle
 Substitution2: "'subs' +BB0EOAQ2BD0EOAQ5 +BDgEPQQ0BDUEOgRB lookup 13 subtable" seven.inferior
@@ -1199,33 +1187,27 @@ EndChar
 StartChar: nine
 Encoding: 57 57 26
 Width: 426
-Flags: W
+Flags: HW
 HStem: -8 109<74 178.166> 236 90<134.61 249.271> 563 95<177.085 245.75>
 VStem: 24 129<350.686 537.165> 270 132<352.474 530.265>
 LayerCount: 2
 Fore
 SplineSet
-74 -8 m 1
- 74 101 l 1
- 99 101 112 102 134 106 c 0
- 159 111 188 124 210 145 c 0
- 238 172 262 218 273 276 c 1
- 270 276 l 1
- 249 253 219 236 177 236 c 0
- 93 236 24 311 24 430 c 0
- 24 542 93 658 218 658 c 0
- 339 658 402 548 402 391 c 0
- 402 244 355 141 295 77 c 0
- 255 34 198 5 135 -5 c 0
- 114 -8 94 -8 74 -8 c 1
-211 563 m 0
- 177 563 152 520 153 441 c 0
- 154 378 174 326 214 326 c 0
- 237 326 257 343 264 360 c 0
- 269 373 270 386 270 429 c 0
- 270 515 246 563 211 563 c 0
+93 -14 m 5
+ 73 92 l 1
+ 276 119 272 108 272 252 c 1
+ 269 252 l 1
+ 246 221 211.663085938 214.625 169 220 c 0
+ 42 236 22 242 22 422 c 0
+ 22 630 22 672 207 672 c 0
+ 404 672 405 616 405 384 c 0
+ 405 51 416 13 93 -14 c 5
+209 567 m 0
+ 156 567 151 564 151 441 c 0
+ 151 338 156 335 212 324 c 0
+ 251.573242188 316.2265625 272 329 272 435 c 0
+ 272 567 262 567 209 567 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportional Numbers lookup 16 subtable" nine.fitted
 Substitution2: "'onum' Oldstyle Figures lookup 14 subtable" nine.taboldstyle
 Substitution2: "'subs' +BB0EOAQ2BD0EOAQ5 +BDgEPQQ0BDUEOgRB lookup 13 subtable" nine.inferior
@@ -1379,39 +1361,38 @@ StartChar: at
 Encoding: 64 64 33
 Width: 621
 Flags: W
-HStem: -98 56<200.551 397.384> -26 20G<406 431.769> 65 65<250.381 314.494 430.175 491.833> 367 61<283.51 370.678> 517 75<251.126 449.096>
-VStem: 31 65<72.6815 337.962> 527 64<182.187 435.817>
+HStem: -98 56<200.551 397.384> -26 20G<406 431.769> 65 75<248.154 342.854 408 491.711> 367 61<280.993 361.219> 517 75<251.126 444.907>
+VStem: 31 65<72.6815 337.962> 358 79<151.807 366.683> 517 74<181.706 442.493>
 LayerCount: 2
 Fore
 SplineSet
 358 232 m 2
- 371 362 l 1
- 364 366 346 367 335 367 c 0
- 288 367 263 351 245 190 c 0
- 241.1111852 155.216712067 256 134 280 134 c 0
- 311 134 350 184 358 232 c 2
+ 362 362 l 1
+ 355 366 335.999798383 367 325 367 c 0
+ 280 367 270 365 250 190 c 0
+ 246.025880683 155.226455972 245.030342442 135.457069065 280 134 c 0
+ 328 132 355.445731852 148.986285174 358 232 c 2
 426 -6 m 1
  441 -58 l 1
  389 -88 339 -98 282 -98 c 0
  155 -98 31 3 31 201 c 0
- 31 401 160 592 355 592 c 4
+ 31 401 160 592 355 592 c 0
  515 592 591 469 591 334 c 0
  591 161 530 65 433 65 c 0
- 383 65 367 82 370 150 c 1
- 367 150 l 1
- 343 67 290.984363894 63.8270836295 247 65 c 0
- 172 67 155.873457698 111.177790848 161 185 c 0
- 176 401 218 428 348 428 c 0
- 381 428 439 419 461 407 c 1
+ 383 65 368 70 370 130 c 1
+ 367 130 l 1
+ 345 56 290.984363894 63.8270836295 247 65 c 0
+ 172 67 151 74 161 185 c 0
+ 182.71404797 426.025932465 188 428 338 428 c 0
+ 371 428 400 425 443 417 c 1
  437 223 l 2
- 424 151 425 130 455 130 c 0
- 495 130 527 186 527 320 c 0
- 527 448 479 517 344 517 c 0
- 212 517 96 409 96 201 c 4
+ 435.424187726 172.048736462 425 140 455 140 c 4
+ 495 140 517 186 517 320 c 0
+ 517 448 479 517 344 517 c 0
+ 212 517 96 409 96 201 c 0
  96 31 176 -42 296 -42 c 0
  343 -42 386 -29 426 -6 c 1
 EndSplineSet
-Validated: 33
 Substitution2: "'case' +BCAENQQzBDgEQQRCBEAEPgQ3BDAEMgQ4BEEEOAQ8BEsENQAA +BEQEPgRABDwESwAA lookup 4 subtable" at.cap
 Substitution2: "'aalt' +BBIEQQQ1 +BDAEOwRMBEIENQRABD0EMARCBDgEMgQ9BEsENQAA +BDIEMARABDgEMAQ9BEIESwAA lookup 0 subtable" at.cap
 EndChar
@@ -2117,23 +2098,22 @@ EndChar
 StartChar: bracketleft
 Encoding: 91 91 60
 Width: 258
-Flags: W
+Flags: HW
 HStem: -112 84<149 235> 588 94<149 235>
 VStem: 40 109<126.2 588> 50 99<-28 443.8>
 LayerCount: 2
 Fore
 SplineSet
-235 -112 m 1xd0
+232 -116 m 5xd0
  50 -112 l 1xd0
- 40 682 l 5
- 235 682 l 1
- 235 588 l 1
- 149 588 l 1xe0
+ 40 682 l 1
+ 232 686 l 1
+ 235 582 l 1
+ 149 578 l 1xe0
  149 -28 l 1
- 235 -28 l 1
- 235 -112 l 1xd0
+ 235 -32 l 1
+ 232 -116 l 5xd0
 EndSplineSet
-Validated: 1
 Substitution2: "'case' +BCAENQQzBDgEQQRCBEAEPgQ3BDAEMgQ4BEEEOAQ8BEsENQAA +BEQEPgRABDwESwAA lookup 4 subtable" bracketleft.cap
 Substitution2: "'aalt' +BBIEQQQ1 +BDAEOwRMBEIENQRABD0EMARCBDgEMgQ9BEsENQAA +BDIEMARABDgEMAQ9BEIESwAA lookup 0 subtable" bracketleft.cap
 EndChar
@@ -2159,23 +2139,22 @@ EndChar
 StartChar: bracketright
 Encoding: 93 93 62
 Width: 258
-Flags: W
+Flags: HW
 HStem: -112 84<23 109> 602 94<23 109>
 VStem: 109 109<130.4 602> 109 99<-28 453.6>
 LayerCount: 2
 Fore
 SplineSet
-23 696 m 1xe0
- 218 696 l 5xe0
+23 700 m 1xe0
+ 218 696 l 1xe0
  208 -112 l 1
- 23 -112 l 1
- 23 -28 l 1
+ 23 -116 l 5
+ 20 -32 l 5
  109 -28 l 1xd0
- 109 602 l 1
- 23 602 l 1
- 23 696 l 1xe0
+ 109 592 l 1
+ 20 596 l 1
+ 23 700 l 1xe0
 EndSplineSet
-Validated: 1
 Substitution2: "'case' +BCAENQQzBDgEQQRCBEAEPgQ3BDAEMgQ4BEEEOAQ8BEsENQAA +BEQEPgRABDwESwAA lookup 4 subtable" bracketright.cap
 Substitution2: "'aalt' +BBIEQQQ1 +BDAEOwRMBEIENQRABD0EMARCBDgEMgQ9BEsENQAA +BDIEMARABDgEMAQ9BEIESwAA lookup 0 subtable" bracketright.cap
 EndChar
@@ -2183,22 +2162,21 @@ EndChar
 StartChar: asciicircum
 Encoding: 94 94 63
 Width: 596
-Flags: W
+Flags: HW
 HStem: 630 20G<254 349.36>
 LayerCount: 2
 Fore
 SplineSet
 552 197 m 1
  452 167 l 1
- 298 534 l 5
- 293 534 l 5
+ 298 534 l 1
+ 293 534 l 1
  133 177 l 1
- 44 197 l 1
+ 44 207 l 5
  254 644 l 1
  340 650 l 1
  552 197 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: underscore
@@ -3014,39 +2992,34 @@ EndChar
 StartChar: braceright
 Encoding: 125 125 94
 Width: 258
-Flags: W
+Flags: HW
 HStem: -112 81<23 77.613> 248 79<193 248> 605 90<23 78.8247>
 VStem: 84 98<39.9844 235.413 338.353 534.923> 92 102<-18.362 176.921 398.1 591.143>
 LayerCount: 2
 Fore
 SplineSet
-248 327 m 1xf0
- 248 248 l 1
- 194 248 182 216 182 192 c 0xf0
- 182 166 185 139 188 113 c 0
- 191 86 194 60 194 32 c 0
- 194 -75 126 -112 44 -112 c 2
- 23 -112 l 1
- 23 -31 l 1
- 36 -31 l 1
- 82 -27 92 2 92 39 c 0xe8
- 92 60 90 81 88 101 c 0
- 86 123 84 144 84 164 c 0
- 84 232 110 272 160 288 c 1
- 160 290 l 1
- 110 306 84 347 84 411 c 0xf0
- 84 431 86 450 88 471 c 0
- 90 491 92 513 92 536 c 0
- 92 574 76 601 38 605 c 1
- 23 605 l 1
- 23 695 l 5
- 41 695 l 6
- 136 695 194 636 194 540 c 0xe8
- 194 512 191 486 188 460 c 0
- 185 435 182 410 182 383 c 0
- 182 356 194 327 248 327 c 1xf0
+248 317 m 1xf0
+ 248 228 l 1
+ 194 228 182 216 182 192 c 0xf0
+ 182 138.2578125 190.643681405 66.1206373517 194 12 c 0
+ 202 -117 170.341628959 -106.174208145 48 -112 c 6
+ 27 -113 l 5
+ 23 -41 l 1
+ 36 -41 l 1
+ 82 -37 96 -29 92 19 c 0xe8
+ 88.5416910182 60.4997077821 84 123.6171875 84 164 c 0
+ 84 232 110 262 160 278 c 1
+ 160 280 l 1
+ 110 296 84 327 84 391 c 0xf0
+ 84 432.88671875 92 501.934570312 92 546 c 0
+ 92 584 76 591 38 595 c 1
+ 23 595 l 1
+ 31 706 l 1
+ 49 705 l 2
+ 192.224615385 697.043076923 202 690 194 550 c 0xe8
+ 190.854907446 494.960880302 182 417.858398438 182 363 c 0
+ 182 336 194 317 248 317 c 1xf0
 EndSplineSet
-Validated: 1
 Substitution2: "'case' +BCAENQQzBDgEQQRCBEAEPgQ3BDAEMgQ4BEEEOAQ8BEsENQAA +BEQEPgRABDwESwAA lookup 4 subtable" braceright.cap
 Substitution2: "'aalt' +BBIEQQQ1 +BDAEOwRMBEIENQRABD0EMARCBDgEMgQ9BEsENQAA +BDIEMARABDgEMAQ9BEIESwAA lookup 0 subtable" braceright.cap
 EndChar
@@ -3054,7 +3027,7 @@ EndChar
 StartChar: asciitilde
 Encoding: 126 126 95
 Width: 596
-Flags: W
+Flags: HW
 HStem: 191 78<372.376 445.002> 284 96<154.409 240.707>
 VStem: 57 84<210.167 273.675> 456 83<271.7 351.843>
 LayerCount: 2
@@ -3063,16 +3036,15 @@ SplineSet
 141 201 m 1
  57 211 l 1
  86 383 118 380 182 380 c 0
- 228 380 251 366 325 320 c 4
- 385.155545657 282.606012159 402 269 423 269 c 4
+ 228 380 268 377 325 320 c 0
+ 375.084927872 269.915072128 384 269 423 269 c 4
  445 269 445 282 456 361 c 1
  539 351 l 1
- 516 202 509 191 427 191 c 0
- 383 191 363.70263469 191.488456824 286 237 c 0
- 216 278 199 284 177 284 c 0
+ 516 202 508.949569491 193.875423491 427 191 c 4
+ 370 189 337 186 286 237 c 4
+ 228.637120017 294.362879983 226 284 177 284 c 4
  160 284 154 276 141 201 c 1
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: exclamdown
@@ -4558,7 +4530,7 @@ SplineSet
  190.136929608 599.249230348 177 624 177 443 c 6
  177 -20 l 1xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: onesuperior
@@ -18628,7 +18600,7 @@ SplineSet
  63.419921875 102.854492188 58.1760944854 111.13320309 66 277 c 6
  76 489 l 1xe0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni043C
@@ -18683,7 +18655,7 @@ SplineSet
  52.083984375 -11.5869140625 l 5xec
  39.7890625 507.267578125 l 5xf4
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni043E
